@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagal98
 - 👀 I’m interested in data analytics, finance and food :) 
-- 🌱 I’m currently learning python, ai, Machine Learning and data analytics with the aicore 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning python, Ai, Machine Learning and data analytics with the Aicore 
+- 💞️ I’m looking to collaborate on data analytic problems
 - 📫 How to reach me on my email sagalabdulaahi@gmail.com
